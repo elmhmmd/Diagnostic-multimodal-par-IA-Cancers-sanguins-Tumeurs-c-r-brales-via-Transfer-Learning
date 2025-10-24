@@ -1,0 +1,6 @@
+image,true_class,pred_class,confidence
+gg (254).jpg,Glioma,Meningioma,0.8697410225868225
+gg (385).jpg,Glioma,Pituitary,0.8223234415054321
+image(241).jpg,No Tumor,Pituitary,0.6167029738426208
+m (34).jpg,Pituitary,Meningioma,0.883237361907959
+Tr-me_0339.jpg,Meningioma,Pituitary,0.8623011708259583

@@ -2,3 +2,5 @@ data/
 dataz/
 *.h5
 *.pkl
+*.pth
+.todo
